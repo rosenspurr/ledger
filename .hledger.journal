@@ -1,0 +1,15 @@
+; journal created 2025-07-03 by hledger
+
+2025-07-03 verduleria
+    gastos:comida            3000
+    assets:cash             -3000
+
+2025-07-03 initial balance
+    assets:cash                               64350
+    assets:mp                                 30295
+    assets:savings                           188114
+    equity:opening/closing balances         -282759
+
+2025-07-03 steam test
+    assets:payo                1
+    income:steam              -1
