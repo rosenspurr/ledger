@@ -10,6 +10,9 @@
     assets:savings                           188114
     equity:opening/closing balances         -282759
 
-2025-07-03 steam test
-    assets:payo                1
-    income:steam              -1
+
+2025-07-03 del servicio tecnico que les hice a gabriel y ariel
+    assets:mp                        10000
+    income:tecnico:gabriel          -10000
+    assets:mp                         5000
+    income:tecnico:ariel             -5000
