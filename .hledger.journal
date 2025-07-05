@@ -20,3 +20,11 @@
 2025-07-04 queso chino
     gastos:comida:queso              1990
     assets:mp                      -1990
+
+2025-07-05 verduleria manzanas 2 bifes de cuadril salchichas chino yogur
+    gastos:comida:carne            5780
+    assets:mp                     -5780
+    gastos:comida                  2000
+    assets:cash                   -2000
+    gastos:comida                  5888
+    assets:mp                     -5888
